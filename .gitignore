@@ -1,0 +1,16 @@
+/build.xml
+/nbproject/ant-deploy.xml
+/lib/nblibraries.properties
+/nbproject/genfiles.properties
+/web/META-INF/context.xml
+/nbproject/build-impl.xml
+/nbproject/project.xml
+/nbproject/project.properties
+/lib/javaee-endorsed-api-6.0/jaxb-api-osgi.jar
+/src/conf/MANIFEST.MF
+/lib/javaee-endorsed-api-6.0/javax.annotation.jar
+/lib/javaee-endorsed-api-6.0/javaee-doc-api.jar
+/web/WEB-INF/web.xml
+/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar
+/lib/javaee-endorsed-api-6.0/webservices-api-osgi.jar
+/web/index.jsp
